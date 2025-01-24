@@ -30,7 +30,7 @@ The game is implemented in Java, using the Swing framework for the GUI. The word
 ### Installation
 1. Clone this repository to your local machine.
    ```bash
-   git clone https://github.com/yourusername/hangman-game.git
+   git clone https://github.com/isha-venkat/Hangman
 2. Open the project in your preferred Java IDE (e.g., IntelliJ IDEA, Eclipse).
 3. Build and run the Run class, which contains the main method for launching the application.
 
